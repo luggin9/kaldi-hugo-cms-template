@@ -44,6 +44,10 @@
   background-color: var(--primary);
 }
 
+.bg-accent {
+  background-color: var(--accent);
+}
+
 .bg-highlight {
   background-color: --var(--highlight);
 }
