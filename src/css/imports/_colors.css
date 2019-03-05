@@ -4,6 +4,10 @@
   color: var(--primary);
 }
 
+.accent {
+  color: var(--accent);
+}
+
 .highlight {
   color: --var(--highlight);
 }
